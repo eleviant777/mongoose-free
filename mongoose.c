@@ -19,8 +19,6 @@
 // THE SOFTWARE.
 
 
-// evgeny.leviant@gmail.com: minor SSL/TLS improvement (see ssl_peer_verify/ssl_key)
-
 #if defined(_WIN32)
 #define _CRT_SECURE_NO_WARNINGS // Disable deprecation warning in VS2005
 #else
